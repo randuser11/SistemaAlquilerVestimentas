@@ -1,0 +1,9 @@
+com\mycompany\sistemaalquilervestimentas\Alquiler.class
+com\mycompany\sistemaalquilervestimentas\ControladorInventario.class
+com\mycompany\sistemaalquilervestimentas\VistaConsola.class
+com\mycompany\sistemaalquilervestimentas\DatabaseManager.class
+com\mycompany\sistemaalquilervestimentas\GestorInventario.class
+com\mycompany\sistemaalquilervestimentas\Prenda.class
+com\mycompany\sistemaalquilervestimentas\Reporte.class
+com\mycompany\sistemaalquilervestimentas\VistaGUI.class
+com\mycompany\sistemaalquilervestimentas\Main.class
